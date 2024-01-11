@@ -1,0 +1,5 @@
+Gradle warpper is used run app without installing gradle sw
+Gradle init-
+Gradle Compile
+Gradle run- to run main class
+build.gradle- script are available
